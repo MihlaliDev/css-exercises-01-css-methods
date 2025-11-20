@@ -46,11 +46,6 @@ body {
   flex-direction: column;
 }
 
-.container button {
-  display: flex;
-  flex-direction: row;
-
-}
 
 .header {
   display: flex;
